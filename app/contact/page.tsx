@@ -4,8 +4,8 @@ const contactLinks = [
   {
     icon: "📧",
     label: "이메일 보내기",
-    href: "mailto:kdfkjh@ks.ac.kr",
-    description: "kdfkjh@ks.ac.kr",
+    href: "mailto:kdfkjh@kyungsung.ac.kr",
+    description: "kdfkjh@kyungsung.ac.kr",
     external: false,
   },
   {
