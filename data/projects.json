@@ -35,8 +35,8 @@
     "description": "나를 소개하는 개인 웹사이트. 첫 화면 인트로, 자세한 소개, 자격증·기술 스택, 프로젝트 목록으로 구성. 혼자 기획·구현.",
     "type": "web-app",
     "tech": ["JavaScript", "HTML", "CSS"],
-    "github": "https://github.com/jeonghun-k/webprogramming/tree/main/1201-1",
-    "demo": "https://jeonghun-k.github.io/webprogramming/1201-1/",
+    "github": "https://github.com/jeonghun-k/webprogramming/tree/main/1203-1",
+    "demo": "https://jeonghun-k.github.io/webprogramming/1203-1/",
     "featured": false
   },
   {
