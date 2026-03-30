@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "title": "Chez Scent",
+    "description": "향수 초보자를 위해 향수 용어, 노트, 브랜드별 향수를 한눈에 볼 수 있게 만든 사이트. 혼자 기획부터 구현까지 담당.",
+    "type": "web-app",
+    "tech": ["JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/jeonghun-k/webprogramming/tree/main/1105",
+    "demo": "https://jeonghun-k.github.io/webprogramming/1105/",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "GameHub",
+    "description": "출시된 게임을 한눈에 확인하고, 사용자가 플레이한 게임에 리뷰와 별점을 남길 수 있는 사이트. 검색·태그 필터링·게임 상세 페이지 담당.",
+    "type": "web-app",
+    "tech": ["JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/jeonghun-k/webprogramming/tree/main/GameHub",
+    "demo": "https://jeonghun-k.github.io/webprogramming/",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "StudySpot Finder",
+    "description": "시험 기간 현재 위치 기반으로 주변 운영 중인 도서관·독서실을 검색해주는 사이트. 카카오맵 API·공공데이터 API 연동 및 프론트엔드 담당.",
+    "type": "web-app",
+    "tech": ["JavaScript", "HTML", "CSS", "카카오맵 API", "공공데이터 API"],
+    "github": "https://github.com/jeonghun-k/webprogramming/tree/main/1126",
+    "demo": "https://jeonghun-k.github.io/webprogramming/1126/",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "title": "자기소개 웹사이트",
+    "description": "나를 소개하는 개인 웹사이트. 첫 화면 인트로, 자세한 소개, 자격증·기술 스택, 프로젝트 목록으로 구성. 혼자 기획·구현.",
+    "type": "web-app",
+    "tech": ["JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/jeonghun-k/webprogramming/tree/main/1201-1",
+    "demo": "https://jeonghun-k.github.io/webprogramming/1201-1/",
+    "featured": false
+  },
+  {
+    "id": "5",
+    "title": "Fêter",
+    "description": "부산 내 축제 정보를 한눈에 확인할 수 있는 사이트. 캘린더·공휴일 API·축제 API 연동 및 로그인 기능 담당.",
+    "type": "web-app",
+    "tech": ["JavaScript", "HTML", "CSS", "공공데이터 API"],
+    "demo": "https://readdy.link/preview/a8f69ef0-c19a-4f81-9913-f5d2d5fcda22/4170240",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "title": "Olymfit Guide",
+    "description": "올림픽 공원·체육센터 강좌 정보를 API로 가져와 날씨·연령·취향 맞춤 운동 추천 및 혼잡도를 시각화하는 사이트. API 연동·필터링·추천 기능 담당.",
+    "type": "web-app",
+    "tech": ["JavaScript", "HTML", "CSS", "공공데이터 API"],
+    "github": "https://github.com/jeonghun-k/webprogramming/tree/main/olymfit%20guide",
+    "demo": "https://jeonghun-k.github.io/webprogramming/olymfit%20guide/",
+    "featured": true
+  },
+  {
+    "id": "7",
+    "title": "DeadlineMate",
+    "description": "학교 과제·투두 리스트 관리, 시간표, 수업 자료 저장, 성적 관리를 한 번에 할 수 있는 SaaS. Next.js + Supabase 풀스택으로 단독 구현 후 Vercel 배포.",
+    "type": "web-app",
+    "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "shadcn/ui", "Vercel"],
+    "github": "https://github.com/jeonghun-k/deadlineMate",
+    "demo": "https://deadline-mate-pi.vercel.app/",
+    "featured": true
+  }
+]
